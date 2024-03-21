@@ -1,0 +1,10 @@
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\bin\Debug\aplicativ.exe.config
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\bin\Debug\aplicativ.exe
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\bin\Debug\aplicativ.pdb
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.Form1.resources
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.Properties.Resources.resources
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.exe
+C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.pdb

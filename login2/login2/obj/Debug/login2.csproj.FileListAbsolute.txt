@@ -1,0 +1,13 @@
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\bin\Debug\login2.exe.config
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\bin\Debug\login2.exe
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\bin\Debug\login2.pdb
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.CrearCuenta.resources
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.Form1.resources
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.IniciarSesion.resources
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.Properties.Resources.resources
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.exe
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.pdb
+C:\Users\Alumno\Downloads\Ejercicios\login2\login2\obj\Debug\login2.PAGINA.resources

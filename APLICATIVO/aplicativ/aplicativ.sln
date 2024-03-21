@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aplicativ", "aplicativ\aplicativ.csproj", "{68330977-E33F-4F13-8A55-3CB8B535F22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68330977-E33F-4F13-8A55-3CB8B535F22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68330977-E33F-4F13-8A55-3CB8B535F22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68330977-E33F-4F13-8A55-3CB8B535F22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68330977-E33F-4F13-8A55-3CB8B535F22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8947769F-9034-4735-89B0-3D8516A35CA3}
+	EndGlobalSection
+EndGlobal
