@@ -34,13 +34,16 @@
             this.tbIngreseContraseña = new System.Windows.Forms.TextBox();
             this.tbIngreseUsuario = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnIngresar
             // 
             this.btnIngresar.Font = new System.Drawing.Font("Ravie", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnIngresar.Location = new System.Drawing.Point(139, 495);
+            this.btnIngresar.Location = new System.Drawing.Point(140, 477);
             this.btnIngresar.Name = "btnIngresar";
             this.btnIngresar.Size = new System.Drawing.Size(118, 46);
             this.btnIngresar.TabIndex = 12;
@@ -52,7 +55,7 @@
             // 
             this.labelIngreseContraseña.AutoSize = true;
             this.labelIngreseContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelIngreseContraseña.Location = new System.Drawing.Point(48, 443);
+            this.labelIngreseContraseña.Location = new System.Drawing.Point(46, 412);
             this.labelIngreseContraseña.Name = "labelIngreseContraseña";
             this.labelIngreseContraseña.Size = new System.Drawing.Size(132, 15);
             this.labelIngreseContraseña.TabIndex = 11;
@@ -62,7 +65,7 @@
             // 
             this.labelIngreseUsuario.AutoSize = true;
             this.labelIngreseUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelIngreseUsuario.Location = new System.Drawing.Point(54, 353);
+            this.labelIngreseUsuario.Location = new System.Drawing.Point(50, 331);
             this.labelIngreseUsuario.Name = "labelIngreseUsuario";
             this.labelIngreseUsuario.Size = new System.Drawing.Size(128, 15);
             this.labelIngreseUsuario.TabIndex = 10;
@@ -70,15 +73,16 @@
             // 
             // tbIngreseContraseña
             // 
-            this.tbIngreseContraseña.Location = new System.Drawing.Point(46, 390);
+            this.tbIngreseContraseña.Location = new System.Drawing.Point(42, 368);
             this.tbIngreseContraseña.Multiline = true;
             this.tbIngreseContraseña.Name = "tbIngreseContraseña";
             this.tbIngreseContraseña.Size = new System.Drawing.Size(319, 41);
             this.tbIngreseContraseña.TabIndex = 9;
+            this.tbIngreseContraseña.TextChanged += new System.EventHandler(this.tbIngreseContraseña_TextChanged);
             // 
             // tbIngreseUsuario
             // 
-            this.tbIngreseUsuario.Location = new System.Drawing.Point(46, 309);
+            this.tbIngreseUsuario.Location = new System.Drawing.Point(42, 287);
             this.tbIngreseUsuario.Multiline = true;
             this.tbIngreseUsuario.Name = "tbIngreseUsuario";
             this.tbIngreseUsuario.Size = new System.Drawing.Size(319, 41);
@@ -94,12 +98,44 @@
             this.pictureBox1.TabIndex = 7;
             this.pictureBox1.TabStop = false;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(66, 546);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(262, 15);
+            this.label1.TabIndex = 13;
+            this.label1.Text = "Al registrase, aceptas nuestras condiciones de ";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(109, 570);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(139, 13);
+            this.label2.TabIndex = 14;
+            this.label2.Text = " uso y Politica de privacidad";
+            // 
+            // linkLabel2
+            // 
+            this.linkLabel2.AutoSize = true;
+            this.linkLabel2.Location = new System.Drawing.Point(241, 440);
+            this.linkLabel2.Name = "linkLabel2";
+            this.linkLabel2.Size = new System.Drawing.Size(129, 13);
+            this.linkLabel2.TabIndex = 27;
+            this.linkLabel2.TabStop = true;
+            this.linkLabel2.Text = "¿olvidaste tu contraseña?";
+            // 
             // IniciarSesion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.ClientSize = new System.Drawing.Size(418, 587);
+            this.ClientSize = new System.Drawing.Size(418, 638);
+            this.Controls.Add(this.linkLabel2);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnIngresar);
             this.Controls.Add(this.labelIngreseContraseña);
             this.Controls.Add(this.labelIngreseUsuario);
@@ -122,5 +158,8 @@
         private System.Windows.Forms.TextBox tbIngreseContraseña;
         private System.Windows.Forms.TextBox tbIngreseUsuario;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.LinkLabel linkLabel2;
     }
 }

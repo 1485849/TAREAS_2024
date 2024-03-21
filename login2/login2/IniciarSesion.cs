@@ -14,7 +14,11 @@ namespace login2
     public partial class IniciarSesion : Form
     {
 
+
+
         string connectionString = "Data Source=(localdb)\\ senati;Initial Catalog=yarid_login;Integrated Security=True";
+        private bool mostrarContraseña = false;
+
         public IniciarSesion()
         {
             InitializeComponent();
@@ -67,6 +71,16 @@ namespace login2
                     }
                 }
             }
+        }
+
+        private void tbIngreseContraseña_TextChanged(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
         }
     }
 }

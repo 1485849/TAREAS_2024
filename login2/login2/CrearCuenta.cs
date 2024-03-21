@@ -27,6 +27,13 @@ namespace login2
             string correo = tbCorreo.Text;
             string contraseña = tbContraseña.Text;
 
+            // Verificar si el correo contiene el símbolo '@'
+            if (!correo.Contains("@"))
+            {
+                MessageBox.Show("El correo electrónico debe contener el símbolo '@'.");
+                return; // Salir del método sin guardar la cuenta
+            }
+
             // Crea la consulta SQL para insertar los datos en la base de datos
             string query = "INSERT INTO Usuarios (Nombres, Apellidos, Correo, Contraseña) VALUES (@Nombres, @Apellidos, @Correo, @Contraseña)";
 
@@ -46,6 +53,13 @@ namespace login2
                         connection.Open();
                         int rowsAffected = command.ExecuteNonQuery();
                         MessageBox.Show("Registro exitoso");
+
+                        // Cerrar el formulario actual
+                        this.Close();
+
+                        // Abrir el formulario de inicio de sesión
+                        IniciarSesion formIniciarSesion = new IniciarSesion();
+                        formIniciarSesion.ShowDialog();
                     }
                     catch (Exception ex)
                     {
@@ -53,6 +67,16 @@ namespace login2
                     }
                 }
             }
+        }
+
+        private void tbContraseña_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
         }
     }
 }

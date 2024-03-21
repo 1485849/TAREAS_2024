@@ -38,6 +38,8 @@
             this.tbNombres = new System.Windows.Forms.TextBox();
             this.btGuardar = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -46,7 +48,7 @@
             this.labelContraseña.AutoSize = true;
             this.labelContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelContraseña.ForeColor = System.Drawing.Color.Black;
-            this.labelContraseña.Location = new System.Drawing.Point(44, 628);
+            this.labelContraseña.Location = new System.Drawing.Point(39, 510);
             this.labelContraseña.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelContraseña.Name = "labelContraseña";
             this.labelContraseña.Size = new System.Drawing.Size(133, 15);
@@ -58,7 +60,7 @@
             this.labelCorreo.AutoSize = true;
             this.labelCorreo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelCorreo.ForeColor = System.Drawing.Color.Black;
-            this.labelCorreo.Location = new System.Drawing.Point(47, 544);
+            this.labelCorreo.Location = new System.Drawing.Point(39, 442);
             this.labelCorreo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelCorreo.Name = "labelCorreo";
             this.labelCorreo.Size = new System.Drawing.Size(104, 15);
@@ -70,7 +72,7 @@
             this.labelapellido.AutoSize = true;
             this.labelapellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelapellido.ForeColor = System.Drawing.Color.Black;
-            this.labelapellido.Location = new System.Drawing.Point(45, 463);
+            this.labelapellido.Location = new System.Drawing.Point(33, 375);
             this.labelapellido.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelapellido.Name = "labelapellido";
             this.labelapellido.Size = new System.Drawing.Size(123, 15);
@@ -82,7 +84,7 @@
             this.labelNombre.AutoSize = true;
             this.labelNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelNombre.ForeColor = System.Drawing.Color.Black;
-            this.labelNombre.Location = new System.Drawing.Point(43, 375);
+            this.labelNombre.Location = new System.Drawing.Point(39, 313);
             this.labelNombre.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelNombre.Name = "labelNombre";
             this.labelNombre.Size = new System.Drawing.Size(112, 15);
@@ -91,7 +93,7 @@
             // 
             // tbCorreo
             // 
-            this.tbCorreo.Location = new System.Drawing.Point(36, 498);
+            this.tbCorreo.Location = new System.Drawing.Point(36, 460);
             this.tbCorreo.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.tbCorreo.Multiline = true;
             this.tbCorreo.Name = "tbCorreo";
@@ -100,16 +102,17 @@
             // 
             // tbContraseña
             // 
-            this.tbContraseña.Location = new System.Drawing.Point(36, 582);
+            this.tbContraseña.Location = new System.Drawing.Point(36, 528);
             this.tbContraseña.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.tbContraseña.Multiline = true;
             this.tbContraseña.Name = "tbContraseña";
             this.tbContraseña.Size = new System.Drawing.Size(368, 41);
             this.tbContraseña.TabIndex = 14;
+            this.tbContraseña.TextChanged += new System.EventHandler(this.tbContraseña_TextChanged);
             // 
             // tbApellidos
             // 
-            this.tbApellidos.Location = new System.Drawing.Point(36, 414);
+            this.tbApellidos.Location = new System.Drawing.Point(36, 393);
             this.tbApellidos.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.tbApellidos.Multiline = true;
             this.tbApellidos.Name = "tbApellidos";
@@ -129,7 +132,7 @@
             // 
             this.btGuardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btGuardar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.btGuardar.Location = new System.Drawing.Point(121, 674);
+            this.btGuardar.Location = new System.Drawing.Point(132, 585);
             this.btGuardar.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btGuardar.Name = "btGuardar";
             this.btGuardar.Size = new System.Drawing.Size(153, 44);
@@ -149,12 +152,33 @@
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(128, 660);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(139, 13);
+            this.label2.TabIndex = 22;
+            this.label2.Text = " uso y Politica de privacidad";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(85, 636);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(262, 15);
+            this.label1.TabIndex = 21;
+            this.label1.Text = "Al registrase, aceptas nuestras condiciones de ";
+            // 
             // CrearCuenta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(434, 736);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btGuardar);
             this.Controls.Add(this.labelContraseña);
             this.Controls.Add(this.labelCorreo);
@@ -185,5 +209,7 @@
         private System.Windows.Forms.TextBox tbNombres;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btGuardar;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
     }
 }
