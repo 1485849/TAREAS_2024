@@ -8,3 +8,13 @@ C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\apli
 C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.exe
 C:\Users\Alumno\Downloads\TRABAJOS\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.pdb
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\bin\Debug\aplicativ.exe.config
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\bin\Debug\aplicativ.exe
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\bin\Debug\aplicativ.pdb
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.csproj.AssemblyReference.cache
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.Form1.resources
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.Properties.Resources.resources
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.csproj.GenerateResource.cache
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.csproj.CoreCompileInputs.cache
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.exe
+D:\yarid\TRABAJOS\LENGUAJE DE PROGRAMACION\TAREAS_2024\APLICATIVO\aplicativ\aplicativ\obj\Debug\aplicativ.pdb

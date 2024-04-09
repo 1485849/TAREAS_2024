@@ -53,9 +53,9 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::login2.Properties.Resources.Tendencias_de_tecnologia_2023_Capa;
-            this.pictureBox4.Location = new System.Drawing.Point(598, 429);
+            this.pictureBox4.Location = new System.Drawing.Point(582, 317);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(403, 233);
+            this.pictureBox4.Size = new System.Drawing.Size(314, 188);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 4;
             this.pictureBox4.TabStop = false;
@@ -63,9 +63,9 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::login2.Properties.Resources._1_vxjAHkrXbGG6gOiPZgjeZA;
-            this.pictureBox3.Location = new System.Drawing.Point(94, 429);
+            this.pictureBox3.Location = new System.Drawing.Point(170, 301);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(410, 249);
+            this.pictureBox3.Size = new System.Drawing.Size(321, 204);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 3;
             this.pictureBox3.TabStop = false;
@@ -73,9 +73,9 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::login2.Properties.Resources.la_nueva_tecnologia_que_esta_moviendo_al_mundo;
-            this.pictureBox2.Location = new System.Drawing.Point(377, 191);
+            this.pictureBox2.Location = new System.Drawing.Point(514, 136);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(304, 204);
+            this.pictureBox2.Size = new System.Drawing.Size(215, 159);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 2;
             this.pictureBox2.TabStop = false;
@@ -83,9 +83,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::login2.Properties.Resources.El_auge_de_la_tecnologia_y_como_ha_transformado_nuestros_habitos_scaled;
-            this.pictureBox1.Location = new System.Drawing.Point(24, 191);
+            this.pictureBox1.Location = new System.Drawing.Point(130, 136);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(314, 186);
+            this.pictureBox1.Size = new System.Drawing.Size(225, 141);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -94,7 +94,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1167, 788);
+            this.ClientSize = new System.Drawing.Size(1097, 538);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);

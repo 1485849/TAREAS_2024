@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|solutionrelative:login2\\pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\crearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|solutionrelative:login2\\crearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\iniciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|solutionrelative:login2\\iniciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\iniciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|solutionrelative:login2\\iniciarsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|solutionrelative:login2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|d:\\yarid\\trabajos\\lenguaje de programacion\\tareas_2024\\login2\\login2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|solutionrelative:login2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\crearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83AB9500-D53E-487C-8E1E-341D424FCE9F}|login2\\login2.csproj|solutionrelative:login2\\crearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\Form1.cs",
+              "RelativeDocumentMoniker": "login2\\Form1.cs",
+              "ToolTip": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "login2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:16:30.545Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PAGINA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\PAGINA.cs",
+              "RelativeDocumentMoniker": "login2\\PAGINA.cs",
+              "ToolTip": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\PAGINA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "login2\\PAGINA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:16:30.58Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IniciarSesion.cs",
+              "DocumentMoniker": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\IniciarSesion.cs",
+              "RelativeDocumentMoniker": "login2\\IniciarSesion.cs",
+              "ToolTip": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\IniciarSesion.cs",
+              "RelativeToolTip": "login2\\IniciarSesion.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:16:30.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearCuenta.cs",
+              "DocumentMoniker": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\CrearCuenta.cs",
+              "RelativeDocumentMoniker": "login2\\CrearCuenta.cs",
+              "ToolTip": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\CrearCuenta.cs",
+              "RelativeToolTip": "login2\\CrearCuenta.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:16:30.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\Form1.cs",
+              "RelativeDocumentMoniker": "login2\\Form1.cs",
+              "ToolTip": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\Form1.cs",
+              "RelativeToolTip": "login2\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:16:30.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IniciarSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\IniciarSesion.cs",
+              "RelativeDocumentMoniker": "login2\\IniciarSesion.cs",
+              "ToolTip": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\IniciarSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "login2\\IniciarSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:16:30.589Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrearCuenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\CrearCuenta.cs",
+              "RelativeDocumentMoniker": "login2\\CrearCuenta.cs",
+              "ToolTip": "D:\\yarid\\TRABAJOS\\LENGUAJE DE PROGRAMACION\\TAREAS_2024\\login2\\login2\\CrearCuenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "login2\\CrearCuenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:16:30.585Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
